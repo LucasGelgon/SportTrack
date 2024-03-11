@@ -1,0 +1,41 @@
+body{
+    background-color: white;
+    margin : 0px;
+}
+
+h1{
+    color: white;
+    margin : auto;
+
+}
+p{
+    color: white;
+    margin: auto;
+}
+
+#titre{
+    background-color: #00008B;
+    font-family: New Century Schoolbook, TeX Gyre Schola, serif;
+}
+
+#moncompte{
+    background-color : #005eb8;
+    font-family: Arial Narrow, sans-serif;
+}
+#basdepage{
+    margin-top: 400px;
+
+
+}
+form{
+    width : 320px;
+    padding: 10px;
+    border: 1px solid black;
+    margin: auto;
+    outline-style: solid;
+    outline-color: lightblue;
+    outline-width: thin;
+    background-color: white;
+    text-align : center;
+
+}
